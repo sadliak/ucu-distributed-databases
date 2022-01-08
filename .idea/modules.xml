@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/neo4j/neo4j.iml" filepath="$PROJECT_DIR$/neo4j/neo4j.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ucu-distributed-databases.iml" filepath="$PROJECT_DIR$/.idea/ucu-distributed-databases.iml" />
     </modules>
   </component>
