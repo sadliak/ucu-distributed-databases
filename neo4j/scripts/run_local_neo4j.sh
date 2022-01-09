@@ -22,12 +22,12 @@ function parse_and_execute_command() {
   case "$1" in
   start)
     start_database
-    setup_neo4j_import_dir
     ;;
   stop)
     stop_database
     ;;
   cypher_shell)
+    setup_neo4j_import_dir
     cypher_shell
     ;;
   help)

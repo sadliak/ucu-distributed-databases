@@ -28,7 +28,7 @@ traversal performance and operations runtime.
     ```
     * To run Cypher script inside the Cypher shell
         ```shell
-        $ CALL apoc.cypher.runFile("code/example.cyp");
+        $ CALL apoc.cypher.runFile("code/load_data.cyp");
         ```
 
 ## Task Description
@@ -53,7 +53,7 @@ Model an ecommerce store domain, answer the questions via queries.
 
 * Find all items of an order (by order ID)
 * Calculate total price of an order
-* Find all order of a customer
+* Find all orders of a customer
 * Find all items bought by a customer (via their orders)
 * Find a total count of items bought by a customer (via their orders)
 * Find an amount of money spent by a customer (via their orders)
