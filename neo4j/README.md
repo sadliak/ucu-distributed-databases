@@ -7,6 +7,10 @@ traversal performance and operations runtime.
 * [Get started with Neo4j](https://neo4j.com/docs/getting-started/current/get-started-with-neo4j/)
 * [Graph database concepts](https://neo4j.com/docs/getting-started/current/graphdb-concepts/)
 
+## Task Execution Report
+
+Open this [file](report/README.md) to check the task execution report.
+
 ## Prerequisites
 
 * [Docker](https://www.docker.com/) - 20.x.x+
